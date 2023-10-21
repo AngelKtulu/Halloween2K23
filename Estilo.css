@@ -1,0 +1,21 @@
+img {
+    height: 300px;
+    width: 200px;
+}
+
+.pics {
+    display: grid;
+    grid-template-columns: 0.3fr 0.3fr 3fr;
+    gap: 10px;
+}
+
+.footer {
+    text-align: left;
+    font-size: 13px;
+}
+
+p {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Nosifer', sans-serif;
+    font-size: 50px;
+}
